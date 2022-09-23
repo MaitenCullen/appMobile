@@ -21,6 +21,7 @@ export default function App() {
       />
       <Text>
       {text.toUpperCase()}
+      GENE AGREGÓ CAMBIOS
       </Text>  
     </ScrollView>
     </View>
